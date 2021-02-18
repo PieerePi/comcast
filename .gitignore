@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+comcast
 
 # Folders
 _obj
